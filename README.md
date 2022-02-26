@@ -1,2 +1,2 @@
-# Simlpe
+# Simple
 Example Rep
